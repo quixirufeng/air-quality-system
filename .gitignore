@@ -1,0 +1,12 @@
+# 后端 Spring Boot 忽略
+backend/target/
+*.class
+
+# 前端 Vue 忽略 (如果你有前端目录的话)
+node_modules/
+dist/
+
+# IDE 配置文件忽略
+.idea/
+*.iml
+.vscode/
