@@ -1,4 +1,4 @@
-<img width="1274" height="701" alt="3989d036e2c4722b597df381770b2c2a" src="https://github.com/user-attachments/assets/5d5c311e-124d-44c1-ae50-a55d1ab252de" />
+![Uploading image.png…]()
 
 ---
 ## 🌍 全国空气质量监测平台 (Air Quality Monitoring System)
